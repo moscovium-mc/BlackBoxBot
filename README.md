@@ -57,7 +57,7 @@ npm start
 ```
 
 > [!TIP]
-> First time setting up a Discord bot? Check the [Discord Bot Setup Guide](https://blackboxbot-docs.netlify.app/#discord-setup) for step-by-step instructions.
+> First time setting up a Discord bot? Check the [Discord Bot Setup Guide](https://discord.com/developers/docs/intro) for Discord documentation.
 
 ## Platform Support
 
