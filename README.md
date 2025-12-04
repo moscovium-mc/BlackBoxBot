@@ -76,7 +76,7 @@ npm start
 **Complete documentation available at:** https://blackboxbot-docs.netlify.app/
 
 - [Installation Guide](https://blackboxbot-docs.netlify.app/#installation)
-- [Discord Bot Setup](https://blackboxbot-docs.netlify.app/#discord-setup)
+- [Discord Bot Setup](https://discord.com/developers/docs/intro)
 - [Command Reference](https://blackboxbot-docs.netlify.app/#network)
 - [Deployment Options](https://blackboxbot-docs.netlify.app/#deployment)
 - [API Keys Configuration](https://blackboxbot-docs.netlify.app/#api-keys)
