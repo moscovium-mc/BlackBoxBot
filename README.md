@@ -10,7 +10,8 @@
 [![Forks](https://img.shields.io/github/forks/moscovium-mc/BlackBoxBot?style=social)](https://github.com/moscovium-mc/BlackBoxBot/network/members)
 [![Issues](https://img.shields.io/github/issues/moscovium-mc/BlackBoxBot)](https://github.com/moscovium-mc/BlackBoxBot/issues)
 
-> **⭐ Star this repo to get notified when the code drops!**
+> [!TIP]
+> **Star this repo to get notified when the code drops!**
 
 Cybersecurity utilities Discord bot with 25 commands for network recon, crypto operations, and OSINT. Built for security researchers, penetration testers, and CTF participants.
 
@@ -20,7 +21,8 @@ Cybersecurity utilities Discord bot with 25 commands for network recon, crypto o
 
 ## Status
 
-Code coming soon. Currently testing before initial release.
+> [!NOTE]
+> Code coming soon. Currently testing before initial release.
 
 ## Features
 
@@ -54,6 +56,9 @@ npm run deploy
 npm start
 ```
 
+> [!TIP]
+> First time setting up a Discord bot? Check the [Discord Bot Setup Guide](https://blackboxbot-docs.netlify.app/#discord-setup) for step-by-step instructions.
+
 ## Platform Support
 
 | Platform | Commands Working |
@@ -63,7 +68,8 @@ npm start
 | Windows  | 16/25 (64%)      |
 | WSL2     | 25/25 (100%)     |
 
-Windows requires WSL2 or additional utilities for full network command support.
+> [!WARNING]
+> Windows requires WSL2 or additional utilities for full network command support. Some commands (whois, portscan, sslcheck) need Unix utilities.
 
 ## Documentation
 
@@ -90,7 +96,8 @@ If you find this project useful, consider supporting my work:
 
 ## Legal Disclaimer
 
-**READ THIS BEFORE USING**
+> [!CAUTION]
+> **READ THIS BEFORE USING**
 
 **This tool is for authorized security research and educational purposes ONLY.**
 
@@ -117,7 +124,8 @@ By using BlackBoxBot, you acknowledge that:
    - Users assume ALL RESPONSIBILITY for their actions
    - This tool is provided "AS IS" without warranty of any kind
 
-**Unauthorized network scanning or system access is illegal. If you don't have permission, don't use these commands.**
+> [!WARNING]
+> **Unauthorized network scanning or system access is illegal. If you don't have permission, don't use these commands.**
 
 ## Responsible Use Guidelines
 
@@ -137,17 +145,18 @@ By using BlackBoxBot, you acknowledge that:
 
 ## Ethical Considerations
 
-This tool exists to:
-- Support authorized security testing and research
-- Provide educational resources for learning cybersecurity
-- Enable rapid-access tooling in collaborative environments
-- Demonstrate practical applications of security concepts
-
-Use it responsibly. Security research should make the internet safer, not more dangerous.
+> [!IMPORTANT]
+> This tool exists to:
+> - Support authorized security testing and research
+> - Provide educational resources for learning cybersecurity
+> - Enable rapid-access tooling in collaborative environments
+> - Demonstrate practical applications of security concepts
+>
+> Use it responsibly. Security research should make the internet safer, not more dangerous.
 
 ## Contributing
 
-Contributions are welcome!
+Contributions are welcome! See the [contributing guide](https://blackboxbot-docs.netlify.app/#contributing) for guidelines.
 
 ## License
 
